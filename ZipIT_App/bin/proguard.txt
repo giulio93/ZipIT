@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.zipit.DeviceListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.zipit.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.zipit.SubActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:22
+-keepclassmembers class * { *** onToggleClicked(...); }
+

@@ -1,0 +1,26 @@
+/root/NetBeansProjects/ZipIT/bin/classes.dex : \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/BluetoothSerialService$ConnectedThread.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/ConnectThread.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/R$raw.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/SubActivity.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/MainActivity.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/MainActivity$2.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/SubActivity$1.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/BluetoothSerialService$AcceptThread.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/R.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/R$menu.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/BluetoothSerialService.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/DeviceListActivity$3.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/BuildConfig.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/ConnectedThread.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/MainActivity$1.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/R$string.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/R$layout.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/MainActivity$3.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/R$drawable.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/DeviceListActivity$2.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/DeviceListActivity.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/DeviceListActivity$1.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/R$id.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/R$attr.class \
+/root/NetBeansProjects/ZipIT/bin/classes/com/zipit/BluetoothSerialService$ConnectThread.class \

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="top"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    > -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp">
+
+<Button android:id="@+id/btn_start"    
+android:layout_width="fill_parent"
+android:layout_height="100dp"
+android:textSize="25sp"
+android:gravity="center"
+android:text="Start ZipIT Connection" />
+
+<ToggleButton 
+    android:id="@+id/togglebutton"
+    android:layout_width="350dp"
+    android:layout_centerInParent="true"
+    android:textSize="25sp"
+    android:layout_height="100dp"
+    android:textOn="Attivato"
+    android:textOff="Disattivato"
+    android:onClick="onToggleClicked"
+   />
+
+
+ <!--<Button
+            android:id="@+id/button_mas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sendMas" />
+<Button
+            android:id="@+id/button_menos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sendMenos" /> -->
+
+<!--<Button
+    android:id="@+id/send"
+    android:layout_width="96dp"
+    android:layout_alignParentRight="true"
+    android:layout_height="wrap_content"
+    android:text="@string/button_send" /> -->
+
+</RelativeLayout>
+
