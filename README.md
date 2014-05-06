@@ -1,4 +1,5 @@
 ZipIT
 =====
 
-A simple anti-theft device that you can apply on your bag,suitcase or luggage.
+ZipIT is a simple anti-theft device to be installed on bag,suitcase or luggage based on Arduino.
+When the thief opens your zip, the device sends an warning to your smartphone through bluetooth.
